@@ -1,3 +1,1 @@
-#!/bin/sh 
-  
-echo “We'll build later :)”
+echo “We will build later”
