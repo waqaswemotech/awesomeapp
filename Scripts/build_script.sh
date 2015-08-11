@@ -1,2 +1,3 @@
-
-echo “We’ll build later :)”;
+#!/bin/sh 
+  
+echo “We'll build later :)”
